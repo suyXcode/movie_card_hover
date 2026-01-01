@@ -3,7 +3,10 @@
 Interactive movie card UI built using **HTML & CSS** with engaging hover effects.  
 This project showcases animated card transitions and visual feedback when hovering over movie posters — perfect for landing pages, portfolios, or UI/UX demos.
 
-👉 Live Demo: https://suyxcode.github.io/movie_card_hover/ :contentReference[oaicite:0]{index=0}
+
+👉 Live Demo: https://suyxcode.github.io/movie_card_hover/
+
+
 
 ---
 
